@@ -1,0 +1,1 @@
+This app is a chatbot using #ChatGPT API by OpenAI. This bot lets tourists in Miami find about things to do in Miami and more.
