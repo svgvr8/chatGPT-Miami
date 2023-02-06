@@ -2,6 +2,7 @@
 
 # Miami ChatGPT API
 
+Disclaimer : the code, post and description written by chatGPT.
 
 A Python script that links to OpenAI's GPT-3 API and returns answers to questions about Miami.
 ## Installation
